@@ -51,6 +51,3 @@ What should this paragraph be about? Artificial Intelligence
 - The script uses OpenAI's `gpt-3.5-turbo-instruct` model.  
 - `max_tokens` is set to 400, and `temperature` is set to 0.3 for controlled creativity.  
 - Ensure you have an active OpenAI API key with sufficient quota to generate responses.  
-
-## License  
-This project is free to use and modify. Feel free to contribute or improve upon it! 🚀  
